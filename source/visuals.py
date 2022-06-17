@@ -1,6 +1,9 @@
 '''
 Code for visualizations of 1+1 D and 2+1 D systems and analytics.
 
+author: Adam Rupe
+email: atrupe@ucdavis.edu
+liscense: BSD
 '''
 
 import numpy as np

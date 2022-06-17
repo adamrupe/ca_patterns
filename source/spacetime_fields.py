@@ -1,3 +1,9 @@
+'''
+author: Adam Rupe
+email: atrupe@ucdavis.edu
+liscense: BSD
+'''
+
 from itertools import product
 from .CAs import *
 import numpy as np
